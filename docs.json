@@ -22,7 +22,10 @@
           "elo/katkestused",
           "elo/projektid",
           "elo/failid",
-          "elo/kolleegid"
+          "elo/kolleegid",
+          "elo/ulesanded",
+          "elo/too-ulevaade",
+          "elo/kinnitused"
         ]
       }
     ]
