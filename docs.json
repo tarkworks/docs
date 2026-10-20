@@ -25,7 +25,8 @@
           "elo/kolleegid",
           "elo/ulesanded",
           "elo/too-ulevaade",
-          "elo/kinnitused"
+          "elo/kinnitused",
+          "elo/malu-ja-oskused"
         ]
       }
     ]
