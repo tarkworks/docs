@@ -19,7 +19,10 @@
           "elo/index",
           "elo/alustamine",
           "elo/otsing",
-          "elo/katkestused"
+          "elo/katkestused",
+          "elo/projektid",
+          "elo/failid",
+          "elo/kolleegid"
         ]
       }
     ]
