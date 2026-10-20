@@ -28,7 +28,9 @@
           "elo/kinnitused",
           "elo/malu-ja-oskused",
           "elo/tooruum",
-          "elo/valimus-ja-kiirkasud"
+          "elo/valimus-ja-kiirkasud",
+          "elo/ligipaas",
+          "elo/kkk"
         ]
       }
     ]
