@@ -20,7 +20,10 @@
       {
         "group": "Elo kasutusjuhendid",
         "pages": [
-          "elo/index"
+          "elo/index",
+          "elo/alustamine",
+          "elo/otsing",
+          "elo/katkestused"
         ]
       }
     ],
