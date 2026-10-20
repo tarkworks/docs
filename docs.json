@@ -16,6 +16,12 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Elo kasutusjuhendid",
+        "pages": [
+          "elo/index"
+        ]
       }
     ],
     "global": {
